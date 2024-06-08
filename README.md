@@ -1,1 +1,2 @@
 # mapty
+Projet mapty issu de la formation JavaScript proposé par Jonas Schmedtmann. Ce porjet consiste en tant qu'utilisateur de Mapty, à pouvoir afficher nos entraînements sur une carte issu de l'API Leaflet
